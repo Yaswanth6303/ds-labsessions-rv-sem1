@@ -13,7 +13,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, classification_rep
 # -------------------------------
 # STEP 2: Load Dataset
 # -------------------------------
-df = pd.read_csv("student_performance_new.csv")
+df = pd.read_csv("./assets/student_performance_new.csv")
 
 
 # -------------------------------

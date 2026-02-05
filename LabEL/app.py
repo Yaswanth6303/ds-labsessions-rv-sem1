@@ -13,8 +13,8 @@ from wordcloud_generator import create_wordcloud, render_wordcloud, save_wordclo
 # ------------------------
 # Page Config
 # ------------------------
-st.set_page_config(page_title="Advanced Word Cloud", layout="centered")
-st.title("☁️ Advanced Word Cloud Generator")
+st.set_page_config(page_title="Word Cloud", layout="centered")
+st.title("☁️ Word Cloud Generator")
 
 
 # ------------------------

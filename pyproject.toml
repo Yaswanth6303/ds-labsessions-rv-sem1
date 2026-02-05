@@ -7,8 +7,10 @@ requires-python = ">=3.12"
 dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
+    "mlxtend>=0.24.0",
     "nltk>=3.9.2",
     "numpy>=2.3.5",
+    "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pdfplumber>=0.11.9",
     "pillow>=12.0.0",
